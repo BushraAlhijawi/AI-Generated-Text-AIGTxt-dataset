@@ -22,6 +22,7 @@ This dataset has four columns:
 - Statistical Summary of AIGTxt Dataset
   
 | **Measure                                      | **Value  |
+| -----------------------------------------------|----------|
 | Number of records/class                        | 1000     |
 | Number of classes                              | 3        |
 | Number of topics                               | 10       |
@@ -32,6 +33,7 @@ This dataset has four columns:
 - Statistical Summary of AIGTxt Dataset per Domain
   
 | **Domain                                   | **Num of Records | **Avg Paragraph Len | **Min Paragraph Len | ** Max Paragraph Len | **Unique Words |
+| -------------------------------------------|------------------|---------------------|---------------------|----------------------|----------------|
 | Astrophysics & Astronomy                   | 432              | 160.72              | 66                  | 425                  | 6806           |
 | Climate Science & Environmental Studies    | 315              | 215.67              | 100                 | 490                  | 7114           |
 | Computer Science & Artificial Intelligence | 432              | 206.97              | 97                  | 435                  | 8310           |
