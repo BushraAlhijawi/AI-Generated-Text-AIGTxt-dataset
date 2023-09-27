@@ -21,7 +21,7 @@ This dataset has four columns:
 ## Summary
 - Statistical Summary of AIGTxt Dataset
   
-| **Measure                                      | **Value  |
+|   Measure                                      |   Value  |
 | -----------------------------------------------|----------|
 | Number of records/class                        | 1000     |
 | Number of classes                              | 3        |
@@ -30,6 +30,7 @@ This dataset has four columns:
 | Number of unique words (excluding stopwords)   | 29226    |
 
 
+ 
 - Statistical Summary of AIGTxt Dataset per Domain
   
 | Domain                                     |   Num of Records |   Avg Paragraph Len |  Min Paragraph Len  |  Max Paragraph Len   |  Unique Words  |
