@@ -32,7 +32,7 @@ This dataset has four columns:
 
 - Statistical Summary of AIGTxt Dataset per Domain
   
-| **Domain                                   | **Num of Records | **Avg Paragraph Len | **Min Paragraph Len | ** Max Paragraph Len | **Unique Words |
+| Domain                                     |   Num of Records |   Avg Paragraph Len |  Min Paragraph Len  |  Max Paragraph Len   |  Unique Words  |
 | -------------------------------------------|------------------|---------------------|---------------------|----------------------|----------------|
 | Astrophysics & Astronomy                   | 432              | 160.72              | 66                  | 425                  | 6806           |
 | Climate Science & Environmental Studies    | 315              | 215.67              | 100                 | 490                  | 7114           |
