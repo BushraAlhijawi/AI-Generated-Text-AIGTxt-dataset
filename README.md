@@ -1,15 +1,27 @@
-# AIGTxt
+# AI-Generated Text (AIGTxt)
 
-## Data Collection Process
-AI-Generated Text (AIGTxt) dataset is a new dataset that contains 1000 text records extracted from scientific publications in 10 distinct fields of study. These fields are Astrophysics and astronomy, Climate Science and Environmental Studies, Computer Science and Artificial Intelligence, Genetics and genomics, Materials Science and Engineering, Mathematics and Statistics, Medical Research and Healthcare, Natural Language Processing, Neuroscience and Psychology, and Social Sciences and Humanities. 
+## Introduction
+This repository contains the **AI-Generated Text (AIGTxt) dataset**, which was used in the research project **Deep Learning Detection Method for Large Language Models-Generated Scientific Content**. The dataset was collected from **published academic articles prior to 2022** and covers a wide range of fields. Specifically, the dataset includes scientific publications from **10 distinct fields of study**, which are:
+1. Astrophysics and Astronomy
+2. Climate Science and Environmental Studies
+3. Computer Science and Artificial Intelligence
+4. Genetics and Genomics
+5. Materials Science and Engineering
+6. Mathematics and Statistics
+7. Medical Research and Healthcare
+8. Natural Language Processing
+9. Neuroscience and Psychology
+10. Social Sciences and Humanities
 
-This dataset has four columns:
-1. Human text written: Extracted paragraphs from the scientific publications.
-2. ChatGPT text written: Manual interaction with ChatGPT to rewrite the extracted human paragraphs.
-3. Mixed text written: Mixed paragraphs from human text written and ChatGPT text written 
-4. Domain: which identifies the paragraph topic
-
-> **(AIGTxt)** dataset is the result of research conducted by __________ and has been presented in _____________
+## Dataset Description
+* Name of Dataset: AIGTxt
+* Format: CSV
+* Date of Collection: 2023
+* Column Descriptions:
+  1. Human text written: Extracted paragraphs from the scientific publications.
+  2. ChatGPT text written: Manual interaction with ChatGPT to rewrite the extracted human paragraphs.
+  3. Mixed text written: Mixed paragraphs from human text written and ChatGPT text written 
+  4. Domain: which identifies the paragraph topic
 
 ## Use Cases
 1. Text Classification
@@ -18,7 +30,7 @@ This dataset has four columns:
 4. Topic Modeling
 5. Text Visualization
 
-## Summary
+## Statistical Summary
 - Statistical Summary of AIGTxt Dataset
   
 |   Measure                                      |   Value  |
@@ -46,4 +58,6 @@ This dataset has four columns:
 | Neuroscience & Psychology                  | 213              | 206.80              | 63                  | 346                  | 5123           |
 | Social Sciences & Humanities               | 510              | 165.71              | 70                  | 453                  | 8908           |
 
+
+## Citation Information
 
