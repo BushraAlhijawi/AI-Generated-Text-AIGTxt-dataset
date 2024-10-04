@@ -31,7 +31,7 @@ This repository contains the **AI-Generated Text (AIGTxt) dataset**, which was u
 5. Text Visualization
 
 ## Statistical Summary
-- Statistical Summary of AIGTxt Dataset
+- Statistical Summary of **AIGTxt Dataset**
   
 |   Measure                                      |   Value  |
 | -----------------------------------------------|----------|
@@ -43,9 +43,9 @@ This repository contains the **AI-Generated Text (AIGTxt) dataset**, which was u
 
 
  
-- Statistical Summary of AIGTxt Dataset per Domain
+- Statistical Summary of AIGTxt Dataset **per Domain**
   
-| Domain                                     |   Num of Records |   Avg Paragraph Len |  Min Paragraph Len  |  Max Paragraph Len   |  Unique Words  |
+| Domain                                     |   Number of Records |   Avg Paragraph Length |  Min Paragraph Length  |  Max Paragraph Length   |  Unique Words  |
 | -------------------------------------------|------------------|---------------------|---------------------|----------------------|----------------|
 | Astrophysics & Astronomy                   | 432              | 160.72              | 66                  | 425                  | 6806           |
 | Climate Science & Environmental Studies    | 315              | 215.67              | 100                 | 490                  | 7114           |
