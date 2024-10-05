@@ -12,10 +12,22 @@ This repository contains the **AI-Generated Text (AIGTxt) dataset**, which was u
 8. Natural Language Processing
 9. Neuroscience and Psychology
 10. Social Sciences and Humanities
+    
+### Citation Information
+If you find this dataset or research project useful, please consider citing our work:
+```bibtex
+@article{alhijawi2024deep,
+  title={Deep Learning Detection Method for Large Language Models-Generated Scientific Content},
+  author={Alhijawi, Bushra and Jarrar, Rawan and AbuAlRub, Aseel and Bader, Arwa},
+  journal={Neural Computing and Applications},
+  year={2024}
+}
+```
 
 ## Dataset Description
 * Name of Dataset: AIGTxt
 * Format: CSV
+* Size: 4.1 MB
 * Date of Collection: 2023
 * Column Descriptions:
   1. Human text written: Extracted paragraphs from the scientific publications.
@@ -59,5 +71,5 @@ This repository contains the **AI-Generated Text (AIGTxt) dataset**, which was u
 | Social Sciences & Humanities               | 510              | 165.71              | 70                  | 453                  | 8908           |
 
 
-## Citation Information
+
 
