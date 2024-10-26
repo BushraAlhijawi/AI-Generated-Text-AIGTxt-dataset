@@ -37,10 +37,8 @@ If you find this dataset or research project useful, please consider citing our 
 
 ## Use Cases
 1. Text Classification
-2. Text Summarization
-3. Sentiment Analysis
-4. Topic Modeling
-5. Text Visualization
+2. Topic Modeling
+3. Text Visualization
 
 ## Statistical Summary
 - Statistical Summary of **AIGTxt Dataset**
